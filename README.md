@@ -9,6 +9,8 @@ flexible end-to-end web-enabled applications that are written entirely in F#.
 
 # SAFE-ConfPlanner
 
+
+
 [![Build Status](https://travis-ci.org/SAFE-Stack/SAFE-ConfPlanner.svg?branch=master)](https://travis-ci.org/SAFE-Stack/SAFE-ConfPlanner)
 
 This is the sample project that is used in the talk "Domain Driven UI" ([Slides](http://bit.ly/DomainDrivenUi)). The title is a bit misleading as it is a bad name for "Reusing your datatypes and behaviour from your CQRS/Event-Sourced models in your Elm-architecture application."
